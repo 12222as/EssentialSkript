@@ -1,0 +1,106 @@
+# 初始化文案列表
+on load:
+    # 先清空旧数据，防止重复加载
+    clear {philosophy_quotes::*}
+    
+    add "&8「&7既然世界那么大，为什么不给自己留一个安静的角落？&8」" to {philosophy_quotes::*}
+    add "&8「&7如果连自己都不心疼自己，又怎能等来别人的偏爱？&8」" to {philosophy_quotes::*}
+    add "&8「&7既然人生是一场体验，又何必非要活成别人眼里的标准答案？&8」" to {philosophy_quotes::*}
+    add "&8「&7如果偶尔停下来也没关系，为什么还要逼着自己一直赶路？&8」" to {philosophy_quotes::*}
+    add "&8「&7既然你的感受那么珍贵，为什么总要把它排在别人的后面？&8」" to {philosophy_quotes::*}
+    add "&8「&7真正的注重自我，不是沉溺自恋，而是在喧嚣中保持清醒。&8」" to {philosophy_quotes::*}
+    add "&8「&7认识自己，意味着勇敢剥离被社会期待包裹的虚假外壳。&8」" to {philosophy_quotes::*}
+    add "&8「&7在语言的牢笼之外，生命本身是鲜活且流动的。&8」" to {philosophy_quotes::*}
+    add "&8「&7唯有直面内心的幽暗与光明，才能触及真实的自我。&8」" to {philosophy_quotes::*}
+    add "&8「&7接纳自己的不完美，并从中获得超越的力量。&8」" to {philosophy_quotes::*}
+    add "&8「&7忠实于内心的声音，不被外在的压力所裹挟。&8」" to {philosophy_quotes::*}
+    add "&8「&7在群体的洪流中，守住那份属于个体的本真性。&8」" to {philosophy_quotes::*}
+    add "&8「&7你的存在价值，不需要通过外界的点赞来确证。&8」" to {philosophy_quotes::*}
+    add "&8「&7允许自己成为分离自在的独立个体，拥有不被定义的底气。&8」" to {philosophy_quotes::*}
+    add "&8「&7通过自律与自持，主动守护内在的尊严。&8」" to {philosophy_quotes::*}
+    add "&8「&7将自己视为不可替代的目的，拒绝任何形式的自我物化。&8」" to {philosophy_quotes::*}
+    add "&8「&7尊严不是被动的馈赠，而是你主动守护的价值。&8」" to {philosophy_quotes::*}
+    add "&8「&7对自身利益的合理关心，在不损害他人的前提下，本身就是一种美德。&8」" to {philosophy_quotes::*}
+    add "&8「&7学会在人际交往中划定清晰的边界，把合宜性作为行为的尺度。&8」" to {philosophy_quotes::*}
+    add "&8「&7爱己是爱人的基石；不尊重自己的人，无法真正尊重他人。&8」" to {philosophy_quotes::*}
+    add "&8「&7学会在独处中重建与世界的真实连接。&8」" to {philosophy_quotes::*}
+    add "&8「&7真正的共鸣，往往发生在两个独立的灵魂之间。&8」" to {philosophy_quotes::*}
+    add "&8「&7停止向外索取安全感，向内构建秩序，让自己成为自己的庇护所。&8」" to {philosophy_quotes::*}
+    add "&8「&7不要为了迎合世界而削减自己，你的独特性正是你存在的意义。&8」" to {philosophy_quotes::*}
+    add "&8「&7在这个充满噪音的时代，保持沉默与思考也是一种力量。&8」" to {philosophy_quotes::*}
+    add "&8「&7山巅的风景，只有愿意攀登的人才能看见；眼界，决定了你世界的边界。&8」" to {philosophy_quotes::*}
+    add "&8「&7不要站在井底评判天空的大小，也不要用自己的尺子，去丈量别人的宇宙。&8」" to {philosophy_quotes::*}
+    add "&8「&7真正的成熟，是看透了人性的复杂后，依然选择以温柔和悲悯对待这个世界。&8」" to {philosophy_quotes::*}
+    add "&8「&7当你凝视深渊时，深渊也在凝视你；深思，是为了在黑暗中守住内心的光。&8」" to {philosophy_quotes::*}
+    add "&8「&7万物皆有裂痕，那是光照进来的地方；接纳残缺，本身就是一种深邃的智慧。&8」" to {philosophy_quotes::*}
+    add "&8「&7偏见是无知的产物，当你愿意放下傲慢去倾听，世界才会向你展现它的全貌。&8」" to {philosophy_quotes::*}
+    add "&8「&7时间不会回答所有问题，但深思与沉淀，会让你拥有面对未知答案的底气。&8」" to {philosophy_quotes::*}
+    add "&8「&7对待他人的方式，往往折射出你内心的境界；尊重，是跨越一切鸿沟的桥梁。&8」" to {philosophy_quotes::*}
+    add "&8「&7不要急于给事物贴上标签，真正的智慧，藏在那些无法被轻易定义的留白里。&8」" to {philosophy_quotes::*}
+    add "&8「&7我们终其一生都在寻找意义，后来才发现，意义不在远方，而在你深思当下的每一刻。&8」" to {philosophy_quotes::*}
+    add "&8「&7我们终其一生都在寻找意义，后来才发现，意义不在远方，而在你深思当下的每一刻。&8」" to {philosophy_quotes::*}
+    add "&8「&7跟着旧的路线走，怎么可能会跑在前头？真正的风景，总在无人问津的岔路。&8」" to {philosophy_quotes::*}
+    add "&8「&7不要试图用昨天的地图，去寻找明天的宝藏。&8」" to {philosophy_quotes::*}
+    add "&8「&7如果所有人都走向同一个方向，那这个方向，大概率是个死胡同。&8」" to {philosophy_quotes::*}
+    add "&8「&7盲从是思想的懒惰，真正的觉醒，从敢于对‘理所当然’提出质疑开始。&8」" to {philosophy_quotes::*}
+    add "&8「&7不要做别人思想的跑马场，你的大脑，应该用来种自己的花。&8」" to {philosophy_quotes::*}
+    add "&8「&7规矩是前人留下的脚印，但路，终究是要自己蹚出来的。&8」" to {philosophy_quotes::*}
+    add "&8「&7当你不再害怕偏离航线，你才算真正拥有了整片海洋。&8」" to {philosophy_quotes::*}
+    add "&8「&7与其在别人的剧本里当个完美的配角，不如在自己的世界里做个勇敢的开拓者。&8」" to {philosophy_quotes::*}
+    add "&8「&7经验是宝贵的，但有时，它也是困住你想象力的牢笼。&8」" to {philosophy_quotes::*}
+    add "&8「&7不要问别人路在哪里，当你开始思考‘为什么’的时候，路就已经在脚下了。&8」" to {philosophy_quotes::*}
+# 玩家加入服务器事件 
+on join:
+    # 发送固定的欢迎语
+    wait 40 ticks
+    send "" to player
+    send "" to player
+    send "&e&l      ✦ 欢迎回到服务器，%player%！" to player
+    send "&7        在这里，请保持你的本真，故事都由你来书写" to player
+    send "" to player
+    set {_quote} to a random element out of {philosophy_quotes::*}
+    send "      %{_quote}%" to player
+    send "" to player
+    send "" to player
+    
+    # 播放音效
+    play sound "entity.experience_orb.pickup" with volume 1 and pitch 1 to player
+    play sound "block.end_portal.spawn" with volume 1 and pitch 1 to player
+    play sound "entity.ender_dragon.ambient" with volume 1 and pitch 1 to player
+    play sound "entity.firework_rocket.launch" with volume 1 and pitch 1 to player
+    wait 10 ticks
+    play sound "entity.firework_rocket.blast_far" with volume 1 and pitch 1 to player
+    play sound "entity.firework_rocket.large_blast_far" with volume 1 and pitch 1 to player
+    wait 10 ticks
+    play sound "entity.firework_rocket.twinkle_far" with volume 1 and pitch 1 to player
+    wait 10 ticks
+    play sound "entity.firework_rocket.twinkle_far" with volume 1 and pitch 1 to player
+
+# 玩家手动获取文案指令 
+command /getquote:
+    trigger:
+        set {_quote} to a random element out of {philosophy_quotes::*}
+        send "&8&m-------------------------" to player
+        send "%{_quote}%" to player
+        send "&8&m-------------------------" to player
+
+# 测试指令
+command /testquote [<text>]:
+    permission: op
+    trigger:
+        if arg-1 is "reload":
+            execute console command "/sk reload welcome"
+            send "&a[系统] 脚本已重载，列表已刷新。" to player
+        else:
+            # 模拟一次完整的进服流程
+            send "&b[测试模式] &f已经发送进服预览" to player
+            send "" to player
+            send "" to player
+            send "&e&l      ✦ 欢迎回到服务器，%player%！" to player
+            send "&7        在这里，请保持你的本真，故事都由你来书写" to player
+            send "" to player
+            set {_quote} to a random element out of {philosophy_quotes::*}
+            send "      %{_quote}%" to player
+            send "" to player
+            send "" to player
+            send "&7(这是测试预览，实际进服也会显示以上内容)" to player
